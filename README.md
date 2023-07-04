@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eda Grace</h1>
 <h3 align="center">A passionate Computer Science student from the Philippines</h3>
-<img align="right" alt="coding" width="280" src="https://github.com/edaprgs/edaprgs/assets/117576162/75b29425-1f0c-4cd1-ba91-5212d4d92a9b">
+<img align="right" alt="coding" width="260" src="https://github.com/edaprgs/edaprgs/assets/117576162/75b29425-1f0c-4cd1-ba91-5212d4d92a9b">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edaprgs&label=Profile%20views&color=0e75b6&style=flat" alt="edaprgs" /> </p>
 
 - 📫 How to reach me **edaparagoso2002@gmail.com**
