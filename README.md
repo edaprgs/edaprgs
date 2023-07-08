@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eda Grace</h1>
+<h1 align="center">Hi 👋, I'm Eda Grace Paragoso</h1>
 <h3 align="center">A passionate computer science student, driven by a curiosity for innovative technologies and a relentless pursuit of knowledge, constantly seeking new challenges to solve and pushing the boundaries of what is possible in the digital realm.</h3>
 <img align="right" alt="coding" width="260" src="https://github.com/edaprgs/edaprgs/assets/117576162/75b29425-1f0c-4cd1-ba91-5212d4d92a9b">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edaprgs&label=Profile%20views&color=0e75b6&style=flat" alt="edaprgs" /> </p>
