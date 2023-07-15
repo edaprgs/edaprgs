@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Eda Grace</h2>
+<h2 align="center">Hi 👋, I'm Eda Grace Paragoso</h2>
 <h4 align="center">I am a highly motivated and passionate computer science student studying at MSU-Iligan Institute of Technology.</h4>
 <img align="right" alt="coding" width="260" src="https://github.com/edaprgs/edaprgs/assets/117576162/75b29425-1f0c-4cd1-ba91-5212d4d92a9b">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edaprgs&label=Profile%20views&color=0e75b6&style=flat" alt="edaprgs" /> </p>
