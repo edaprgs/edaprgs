@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://fb.com/egprgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="egprgs" height="30" width="40" /></a>
 <a href="https://instagram.com/___your.grace___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___your.grace___" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@edagraceparagoso8988" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@edagraceparagoso8988" height="30" width="40" /></a>
 <a href="https://discord.gg/edagraceparagoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="edagraceparagoso" height="30" width="40" /></a>
 </p>
 
