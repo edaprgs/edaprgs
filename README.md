@@ -30,9 +30,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,flask" />
-    <img src="https://skillicons.dev/icons?i=figma,vscode,github,git,discord,bitbucket" />
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,notion,postman,wordpress" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,flask,figma,mysql,bitbucket" />
 </div>
 
 <br/>
