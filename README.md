@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eda Grace Paragoso</h1>
-<h3 align="center">Embarking on a coding journey, one line of code at a time</h3>
+<h3 align="center">Venturing into a coding journey, one line of code at a time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edaprgs&label=Profile%20views&color=0e75b6&style=flat" alt="edaprgs" /> </p>
 
