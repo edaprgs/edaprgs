@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **...**
+ 🔭 I’m currently preparing for my internship
  
- 🌱 I’m currently learning **Laravel and PHP**
+ 🌱 I’m currently learning **...**
 
  </div>
  
