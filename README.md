@@ -1,10 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=edaprgs.edaprgs&left_color=hotpink&right_color=black" />
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&pause=1000&color=FB6F92&center=true&vCenter=true&width=750&height=70&lines=Hello+World!+🌍;I'm+Eda+Grace+Paragoso;Full-Stack+Developer+💻;Building+Modern+Web+Experiences✨" />
-
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello+World!;I'm+Eda+Grace+Paragoso;&color=FB6F92" />
+</h1>
 
 <h3 align="center">
 Building modern and user-friendly web applications
