@@ -21,41 +21,41 @@
 
 **Languages**
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5) 
+![CSS](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3) 
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript) 
+![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript) 
+![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)
 
 **Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react) 
+![Next.js](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-white?style=for-the-badge&logo=tailwindcss) 
+![Flask](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=tensorflow)
 
 **Cloud & Databases**
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase) 
+![Supabase](https://img.shields.io/badge/Supabase-white?style=for-the-badge&logo=supabase) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql) 
+![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql)
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git) 
+![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github) 
+![Figma](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma) 
+![VSCode](https://img.shields.io/badge/VSCode-white?style=for-the-badge&logo=visualstudiocode) 
+![Vercel](https://img.shields.io/badge/Vercel-white?style=for-the-badge&logo=vercel)
 
 ### Currently Exploring
 
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Next.js App Router](https://img.shields.io/badge/Next.js_App_Router-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Backend Architecture](https://img.shields.io/badge/Backend_Architecture-6C757D?style=for-the-badge)
-![PostgreSQL at Scale](https://img.shields.io/badge/PostgreSQL_at_Scale-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4B1528?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Next.js App Router](https://img.shields.io/badge/Next.js_App_Router-4B1528?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Backend Architecture](https://img.shields.io/badge/Backend_Architecture-4B1528?style=for-the-badge)
+![PostgreSQL at Scale](https://img.shields.io/badge/PostgreSQL_at_Scale-4B1528?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 </div>
