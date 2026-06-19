@@ -1,6 +1,6 @@
 <div>
 
-# Hi, I'm Eda Grace Paragoso
+## Hi, I'm Eda Grace Paragoso
 
 <a href="mailto:edaparagoso2002@gmail.com">
   <img src="https://img.shields.io/badge/Email-edaparagoso2002@gmail.com-FB6F92?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4B1528" />
@@ -17,7 +17,7 @@
 </a>
 
 
-## Tools & Technologies
+### Tools & Technologies
 
 **Languages**
 
@@ -50,14 +50,12 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## Currently Exploring
+### Currently Exploring
 
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Next.js App Router](https://img.shields.io/badge/Next.js_App_Router-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Backend Architecture](https://img.shields.io/badge/Backend_Architecture-6C757D?style=for-the-badge)
 ![PostgreSQL at Scale](https://img.shields.io/badge/PostgreSQL_at_Scale-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
 
 
 </div>
