@@ -1,70 +1,63 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=edaprgs.edaprgs&left_color=hotpink&right_color=black" />
+<div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+World!;I'm+Eda+Grace+Paragoso;Full-Stack+Developer+%26+AI+Builder;&color=FB6F92" />
-</h1>
+# Hi, I'm Eda Grace Paragoso
 
-<h3 align="center">
-Building practical AI-powered applications and modern web experiences
-</h3>
+<a href="mailto:edaparagoso2002@gmail.com">
+  <img src="https://img.shields.io/badge/Email-edaparagoso2002@gmail.com-FB6F92?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4B1528" />
+</a>
+<a href="https://www.linkedin.com/in/eda-grace-paragoso-2877ba40a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Eda%20Grace%20Paragoso-FB6F92?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4B1528" />
+</a>
+<a href="https://github.com/edaprgs" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-edaprgs-FB6F92?style=for-the-badge&logo=github&logoColor=white&labelColor=4B1528" />
+</a>
 
-<br/>
+<a href="https://edaprgs.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-edaprgs-FB6F92?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4B1528" />
+</a>
 
-<div align="center">
 
-✨ Building and deploying full-stack web applications with AI integrations <br/>
-🚀 Passionate about creating practical business tools and user-centered experiences <br/>
-🌱 Continuously learning AI, TypeScript, Next.js, cloud technologies, and modern backend architectures <br/>
-🎨 Interested in UI/UX Design, Frontend Development, and AI-assisted systems
+## Tools & Technologies
 
-</div>
+**Languages**
 
-<br/>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<div align="center">
+**Frameworks & Libraries**
 
-  <a href="mailto:edaparagoso2002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FB6F92?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-  <a href="https://www.linkedin.com/in/eda-grace-paragoso-2877ba40a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+**Cloud & Databases**
 
-  <a href="https://github.com/edaprgs" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</div>
+**Tools & Platforms**
 
-<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<div align="center">
-  <img width="80%" src="https://capsule-render.vercel.app/api?type=waving&color=FB6F92&height=120&section=header"/>
-</div>
+## Currently Exploring
 
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Next.js App Router](https://img.shields.io/badge/Next.js_App_Router-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Backend Architecture](https://img.shields.io/badge/Backend_Architecture-6C757D?style=for-the-badge)
+![PostgreSQL at Scale](https://img.shields.io/badge/PostgreSQL_at_Scale-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br/>
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,flask,mysql,postgres,supabase,firebase,tensorflow,git,github,figma,vscode,vercel&perline=7" />
 
-</div>
-
-<br/>
-
-<h2 align="center">🚀 Currently Exploring 🚀</h2>
-
-<div align="center">
-
-AI Integration • Gemini API • TypeScript • Next.js App Router • Backend Architecture • PostgreSQL • Firebase
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="80%" src="https://capsule-render.vercel.app/api?type=waving&color=FB6F92&height=120&section=footer"/>
 </div>
