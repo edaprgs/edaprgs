@@ -1,6 +1,6 @@
 <div>
 
-## Hi, I'm Eda Grace Paragoso
+## Hi, I'm Eda Grace 
 
 <a href="mailto:edaparagoso2002@gmail.com">
   <img src="https://img.shields.io/badge/Email-edaparagoso2002@gmail.com-FB6F92?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4B1528" />
