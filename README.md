@@ -1,6 +1,6 @@
 <div>
 
-## Hi, I'm Eda Grace J. Paragoso
+## Hi, I'm Eda Grace
 
 CS graduate from MSU-IIT building full-stack web apps and AI-powered tools. I have two production apps live - a church membership system serving 3,000+ records with Gemini API integration, and a time tracking SaaS with VS Code + Chrome extensions for freelancers.
 
