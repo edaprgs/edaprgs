@@ -2,7 +2,7 @@
 
 ## Hi, I'm Eda Grace Paragoso
 
-CS graduate from MSU-IIT building full-stack web apps and AI-powered tools. I have two production apps live - a church membership system serving 3,000+ records with Gemini API integration, and a time tracking SaaS with VS Code + Chrome extensions for freelancers.
+CS graduate from MSU-IIT. I build full-stack web apps and production-ready interfaces. Currently contracted as a frontend developer for a US-based software company.
 
 <a href="mailto:edaparagoso2002@gmail.com">
   <img src="https://img.shields.io/badge/Email-edaparagoso2002@gmail.com-FB6F92?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4B1528" />
