@@ -2,7 +2,7 @@
 
 ## Hi, I'm Eda Grace Paragoso
 
-CS graduate from MSU-IIT. I build full-stack web apps and production-ready interfaces. Currently contracted as a frontend/full-stack developer for a US-based software company.
+CS graduate from MSU-IIT. I build full-stack web apps and production-ready interfaces, with hands-on experience in Python and machine learning as well. Currently open to new full-time opportunities.
 
 <a href="mailto:edaparagoso2002@gmail.com">
   <img src="https://img.shields.io/badge/Email-edaparagoso2002@gmail.com-B42864?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=141414" />
@@ -36,6 +36,7 @@ CS graduate from MSU-IIT. I build full-stack web apps and production-ready inter
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-F0DCF0?style=for-the-badge&logo=shadcnui&logoColor=000000)
 ![Zod](https://img.shields.io/badge/Zod-F0DCF0?style=for-the-badge&logo=zod&logoColor=000000)
 ![Flask](https://img.shields.io/badge/Flask-F0DCF0?style=for-the-badge&logo=flask&logoColor=000000)
+![OpenCV](https://img.shields.io/badge/OpenCV-F0DCF0?style=for-the-badge&logo=opencv&logoColor=000000)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-F0DCF0?style=for-the-badge&logo=tensorflow&logoColor=000000)
 ![Keras](https://img.shields.io/badge/Keras-F0DCF0?style=for-the-badge&logo=keras&logoColor=000000)
 
@@ -65,10 +66,10 @@ CS graduate from MSU-IIT. I build full-stack web apps and production-ready inter
 ![Figma](https://img.shields.io/badge/Figma-F0DCF0?style=for-the-badge&logo=figma&logoColor=000000)
 ![VSCode](https://img.shields.io/badge/VSCode-F0DCF0?style=for-the-badge&logo=visualstudiocode&logoColor=000000)
 
-### Currently Working On
+### Open To
 
-![SaaS Frontend Architecture](https://img.shields.io/badge/SaaS_Frontend_Architecture-781428?style=for-the-badge)
-![Auth & Account Security](https://img.shields.io/badge/Auth_%26_Account_Security-781428?style=for-the-badge)
-![Stripe Checkout Integration](https://img.shields.io/badge/Stripe_Checkout_Integration-781428?style=for-the-badge&logo=stripe&logoColor=FFFFFF)
+![Full-Stack Developer](https://img.shields.io/badge/Full--Stack_Developer-781428?style=for-the-badge)
+![Python Developer](https://img.shields.io/badge/Python_Developer-781428?style=for-the-badge)
+![Frontend Developer](https://img.shields.io/badge/Frontend_Developer-781428?style=for-the-badge)
 
 </div>
