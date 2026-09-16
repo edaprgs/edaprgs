@@ -53,6 +53,7 @@ CS graduate from MSU-IIT. I build full-stack web apps and production-ready inter
 ![Stripe](https://img.shields.io/badge/Stripe-781428?style=for-the-badge&logo=stripe&logoColor=FFFFFF)
 ![JWT](https://img.shields.io/badge/JWT-781428?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF)
 ![reCAPTCHA](https://img.shields.io/badge/reCAPTCHA_v2-781428?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)
+![Cloudflare Turnstile](https://img.shields.io/badge/Cloudflare_Turnstile-781428?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF)
 
 **AI & LLM**
 
